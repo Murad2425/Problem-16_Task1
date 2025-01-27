@@ -1,8 +1,9 @@
 # Problem-16_Task1
-Analysis of Student Performance 
+ Student Performance Analysis and Visualization
 
 ## Table of Contents
 -[Introduction](Introduction)
+-[Project Task](Project Task)
 
 ## Introduction 
 This the the information of student's performance data.
@@ -43,3 +44,6 @@ Regular Expressions: Validation of input patterns.
  3. Place the CSV file with student data in the project directory.
  4. Run the Python script using
  5. Follow the interactive prompts for analyzing and managing student data
+
+## Conclusion 
+This project provides an effective tool for analyzing and visualizing student performance data using Python. By integrating essential programming concepts like data handling, analysis, and visualization, it offers a practical approach to understanding trends and insights from educational data. Additionally, the optional advanced features demonstrate the potential for further customization and scalability. This project not only helps to enhance programming skills but also provides a foundation for developing real-world data-driven applications.
