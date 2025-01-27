@@ -48,11 +48,6 @@ attendance_categories = pd.cut(df['Attendance Percentage'], bins=[0, 50, 75, 100
 attendance_categories.value_counts().plot(kind='pie', autopct='%1.1f%%')
 plt.show()
 
-# Line graph for student's performance trend over time
-student_data = df[df['Student ID'] == 'STU-12345']
-student_data.plot(x='Date', y='Score', kind='line', title="Performance Trend")
-plt.show()
-
 import matplotlib.pyplot as plt
 
 # Bar chart of average scores by subject
