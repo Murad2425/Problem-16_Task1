@@ -1,4 +1,4 @@
-# Problem-16_Task1
+# Task_1
  # Student Performance Analysis and Visualization
 
 ## Table of Contents
@@ -52,7 +52,7 @@ Regular Expressions: Validation of input patterns.
 This project provides an effective tool for analyzing and visualizing student performance data using Python. By integrating essential programming concepts like data handling, analysis, and visualization, it offers a practical approach to understanding trends and insights from educational data. Additionally, the optional advanced features demonstrate the potential for further customization and scalability. This project not only helps to enhance programming skills but also provides a foundation for developing real-world data-driven applications.
 
 ## Author 
-Murad Hossain
+Murad Hossain,
 Final Year Student (BSc.), 
-Chemical Engineering and Polymer Science
-Shahjalal University of Science and Technology
+Chemical Engineering and Polymer Science,
+Shahjalal University of Science and Technology.
