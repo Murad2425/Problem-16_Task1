@@ -2,8 +2,11 @@
  Student Performance Analysis and Visualization
 
 ## Table of Contents
--[Introduction](Introduction)
--[Project_Task](Project_Task)
+1. -[Introduction](Introduction)
+2. -[Project_Task](Project_Task)
+3. -[Tools_and_Libraries](Tools_and_Libraries)
+4. -[How_to_Run_the_Project](How_to_Run_the_Project)
+5. -[Conclusion](Conclusion)
 
 ## Introduction 
 This the the information of student's performance data.
